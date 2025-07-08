@@ -16,7 +16,7 @@ I'm a passionate backend developer with a strong foundation in **Java**, **Sprin
 - **Frameworks:** Spring Boot  
 - **Databases:** MySQL, PostgreSQL  
 - **Frontend (basic knowledge):** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, IntelliJ, Postman
+- **Tools:** Git, GitHub, Postman
 
 ---
 
@@ -32,6 +32,4 @@ Check out my pinned project on my profile – a backend application that showcas
 - 💼 LinkedIn: [Nazrin Banu](https://www.linkedin.com/in/nazrin-banu)  
 - 🐙 GitHub: [@Nazrin](https://github.com/nazrinbanu)
 
----
-
-_“Strive not to be a_
+_“Strive not to be a
