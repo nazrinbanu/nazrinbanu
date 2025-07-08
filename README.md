@@ -32,4 +32,4 @@ Check out my pinned project on my profile – a backend application that showcas
 - 💼 LinkedIn: [Nazrin Banu](https://www.linkedin.com/in/nazrin-banu)  
 - 🐙 GitHub: [@Nazrin](https://github.com/nazrinbanu)
 
-_“Strive not to be a
+
